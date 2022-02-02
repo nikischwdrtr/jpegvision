@@ -7,3 +7,5 @@ python script for destroying .avi files
 4. run 'python3 jpegvision.py'
 
 
+
+![Uploading Screenshot 2022-02-02 at 21.04.10.png…]()
