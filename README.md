@@ -1,5 +1,5 @@
 # noindex
-python script for destroying .avi files
+python script for video filter working with jpeg compression
 
 1. put video in the same folder as file
 2. open terminal
