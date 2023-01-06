@@ -1,4 +1,4 @@
-# noindex
+# jpeg vision
 python script for video filter working with jpeg compression
 
 1. put video in the same folder as file
